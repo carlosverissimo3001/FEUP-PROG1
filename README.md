@@ -1,5 +1,5 @@
 # FEUP-PROG1-2020
-Practical work developed in Programming 1 lasss
+Practical work developed in Programming 1 Class
 
 Class Syllabus [@FEUP](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=461223)
 
